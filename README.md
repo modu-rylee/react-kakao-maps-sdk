@@ -1,11 +1,18 @@
 # react-kakao-maps-sdk
 
+## 실행
+http://localhost:5173/ 에서 열림
+```
+yarn dev
+```
+
 ## 개발환경
 - react
 - vite
+- npm
 
-## 의존성 파일
-- react-kakao-maps-sdk
+### 의존성 파일
+- react-kakao-maps-sdk: 카카오 지도 연동
 
 ## 참고자료
 #### [React Kakao Maps SDK](https://react-kakao-maps-sdk.jaeseokim.dev/)
