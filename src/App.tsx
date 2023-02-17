@@ -37,12 +37,6 @@ function App() {
                 style={style}
                 onViewpointChange={onViewpointChange}
             />
-
-            <Roadview
-                position={position}
-                style={style}/>
-                pan={deg.pan}
-                tilt={deg.tilt}
         </div>
   )
 }
