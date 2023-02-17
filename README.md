@@ -1,4 +1,4 @@
-# # react kakao maps
+# react kakao maps
 
 ## 실행
 http://localhost:5173/ 에서 열림
