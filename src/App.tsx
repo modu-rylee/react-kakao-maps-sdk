@@ -56,6 +56,7 @@ function App() {
                 tilt={0.21984650896155908}
                 zoom={0}
             />
+            {/* 아래 지도 두개는 값을 소수점 ()자리까지 떼어냈을 때를 비교하기 위한 테스트용 */}
             <Roadview
                 position={position}
                 style={style}
